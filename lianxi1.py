@@ -11,6 +11,7 @@ r = float(input("请输入圆的半径: "))
 area = 3.14 * r ** 2
 print(f"圆的面积是: {area}")
 
+
 # 练习题 3
 s = "3.14"
 float_num = float(s)  # 转换为浮点数: 3.14
